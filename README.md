@@ -1,5 +1,6 @@
-# Human-Resource-Management
+# Vet Human-Resource-Management
 This project is inspired by lenve's project vhr.  
+I will design a human resource management system for the vet.
 It is a human resource management system with separation of front and back ends. The project is developed using SpringBoot+Vue. The project adds technical points involved in common enterprise applications, such as Redis, RabbitMQ, etc
 
 #### Front End:
