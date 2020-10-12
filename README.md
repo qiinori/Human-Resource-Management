@@ -24,4 +24,5 @@ It is a human resource management system with separation of front and back ends.
 ### To do:
 write system requirements  
 create roles for the systems  
-design role functions
+design role functions  
+Learn about spring boot
